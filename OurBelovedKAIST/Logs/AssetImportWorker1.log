@@ -216,3 +216,5 @@ Start importing Assets/Editor/New Prefab.prefab using Guid(df225473069fa4f0f87ae
  -> (artifact id: 'a6ef87c930ecd14a8b9692fd722c8bcc') in 0.019346 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 4
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -243,3 +243,5 @@ Start importing Assets/Materials using Guid(5b1a04bd03aa04fb3ac1863ceb9d2f9d) Im
  -> (artifact id: '49ec1c894f914018c21eab3b4910714a') in 0.000398 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
